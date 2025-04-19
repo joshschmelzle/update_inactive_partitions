@@ -233,6 +233,6 @@ rm -rf "$TEMP_DIR"
 
 echo "=== $INACTIVE_SET partitions update complete ==="
 echo ""
-echo "If try boot is working, these should function to switch partition sets:"
+echo "If tryboot is working, these should function to switch partition sets:"
 echo "sudo reboot '5 tryboot'  # When going from A to B"
 echo "sudo reboot '1 tryboot'  # When going from B to A"
